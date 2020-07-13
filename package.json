@@ -1,0 +1,23 @@
+{
+  "name": "discord-portugal-info-bot",
+  "version": "1.0.0",
+  "description": "A discord bot, that provides information of radars, weather information, to wikipedia searches and another tipes of things that will come.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgermduarte/discord-portugal-info-bot.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jorgermduarte/discord-portugal-info-bot/issues"
+  },
+  "homepage": "https://github.com/jorgermduarte/discord-portugal-info-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0"
+  }
+}
